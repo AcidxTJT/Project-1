@@ -1,0 +1,130 @@
+html{
+  background-color: #68D4FF;
+}
+h1{
+  background-color:#68D4FF;
+
+  padding-top: 25px;
+  padding-bottom: 25px;
+
+  text-align: center;
+  font-family: 'Bricolage Grotesque', sans-serif;
+
+  margin: auto ;
+  border-bottom-style: solid;
+  border-left-style: dotted;
+  border-right-style: dotted;
+
+}
+.content{
+  background-color:#68D4FF;
+}
+.col-sm-8{
+  font-size: 26px;
+  font-family: 'Bricolage Grotesque', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+a:link{
+  color : black;
+}
+.col-sm{
+  margin-left: 25px;
+  margin-right: 25px;
+  padding-top: 20px;
+  font-size: 26px;
+  font-family: 'Bricolage Grotesque', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.table{
+  padding-top: 25px;
+  font-size: 21px;
+  font-family: 'Barlow', sans-serif;
+  font-family: 'Bricolage Grotesque', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+h2{
+  background-color:#68D4FF;
+
+  padding-top: 25px;
+  padding-bottom: 25px;
+
+  border-bottom-style: solid;
+
+  text-align: center;
+  font-family: 'Bricolage Grotesque', sans-serif;
+
+}
+.container{
+    background-color:#68D4FF;
+}
+.rows{
+  background-color:#68D4FF;
+}
+.col-sm-7{
+  margin-left: 25px;
+  font-size: 26px;
+  font-family: 'Bricolage Grotesque', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.content2{
+  padding-top:25px;
+  background-color:#68D4FF;
+}
+img{
+  margin-left: 25px;
+}
+.image1{
+  margin-left:200px;
+  padding-bottom: 50px;
+  align-content: center;
+}
+h3{
+  padding-top: 40px;
+  text-align: center;
+  font-family: 'Barlow', sans-serif;
+  font-family: 'Bricolage Grotesque', sans-serif;
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.para3{
+  margin-left: 250px;
+}
+#content3_col1{
+  padding-top: 50px;
+  font-size: 30px;
+font-family: 'Barlow', sans-serif;
+font-family: 'Bricolage Grotesque', sans-serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
+#content3_col2{
+  padding-top: 50px;
+  font-size: 20px;
+  font-family: 'Bricolage Grotesque', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#image_content3_1{
+  padding-top: 25px;
+  margin-right: 50px;
+}
+#image_content3_1_2{
+  padding-top: 50px;
+  margin-right: 50px;
+}
+#image_content3_1_3{
+  padding-top: 50px;
+  margin-right: 50px;
+}
+#image_content3_1_4{
+  padding-top: 50px;
+  margin-right: 50px;
+}
+#image_content3_1_5{
+  padding-top: 50px;
+  margin-right: 50px;
+}
+
+#image_content3_2{
+  padding-top: 25px;
+  margin-left: 50px;
+}
